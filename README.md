@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @sneakytyper
+- 👋 Hi, I’m Sourav Sharma (@sneakytyper)
+- 📚 I'm pursuing B.Tech in CSE @ IISER Bhopal
 - 👀 I’m interested in Competitive Programming
 - 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on C/C++ stack project
