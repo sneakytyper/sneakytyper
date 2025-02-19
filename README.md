@@ -8,7 +8,7 @@
 - 🎓 First-year Engineering Sciences student at **IISER Bhopal** 
 - 💻 Passionate **Competitive Programmer** | Aiming for **ICPC World Finals** & **IQC 2025 Champion**  
 - 📈 Aspiring **Quant** & **HFT** enthusiast | Targeting Optiver, Two Sigma, DE Shaw  
-- 🤖 Diving into **AI/ML** | **SIH 2024** winner 🏆 with *Easy Khaad* project  
+- 🤖 Diving into **AI/ML**
 - 🧠 Treats **CP** as a sport
 - code, solve, repeat! 💥  
 
