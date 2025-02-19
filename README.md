@@ -1,6 +1,6 @@
 # 💫 Hi there, I'm Sourav Sharma! 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&width=500&lines=Competitive+Programmer+%7C+Aspiring+Quant;AI%2FML+Enthusiast+%7C+Engineering+Student;Passionate+about+DS%2A+A%2C+HFT%2C+and+CP)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&width=500&lines=Competitive+Programmer+%7C+Aspiring+Quant;ML+Enthusiast+%7C+Engineering+Student;Passionate+about+DS%2A+A%2C+HFT%2C+and+CP)](https://git.io/typing-svg)
 
 ---
 
@@ -29,12 +29,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="Sourav's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sneakytyper&show_icons=true&theme=radical" alt="Sourav's GitHub stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sneakytyper&theme=radical" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sneakytyper&layout=compact&theme=radical" alt="Top Languages" width="40%"/>
 </p>
 
 ---
