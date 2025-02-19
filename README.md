@@ -1,6 +1,6 @@
 # 💫 Hi there, I'm Sourav Sharma! 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&width=600&lines=Competitive+Programmer+%7C+Aspiring+Quant;ML+Enthusiast+%7C+Engineering+Student;Passionate+about+HFT%2C+Quant+and+CP.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&width=550&lines=Competitive+Programmer+%7C+Aspiring+Quant;ML+Enthusiast+%7C+Engineering+Student;Passionate+about+HFT%2C+Quant+and+CP.)](https://git.io/typing-svg)
 
 ---
 
