@@ -42,8 +42,8 @@
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sourav-sharma-5318182b8/)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](neophyte2veteran@gmail.com)  
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](YOUR_CODEFORCES_PROFILE)  
-[![AtCoder](https://img.shields.io/badge/AtCoder-1F8ACB?style=for-the-badge&logo=atcoder&logoColor=white)](https://atcoder.jp/users/Sneaky_Typer)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Sneaky_Typer)  
+[![AtCoder](https://img.shields.io/badge/AtCoder-1F8ACB?style=for-the-badge&logo=atcoder&logoColor=white)](https://atcoder.jp/users/Scorzion)
 
 ---
 
